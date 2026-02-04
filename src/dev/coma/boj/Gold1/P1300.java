@@ -42,3 +42,5 @@ public class P1300 {
     return counter;
   }
 }
+
+// 이 문제는 Do It! 알고리즘 코딩테스트 교재의 이진 탐색 실습 문제로 활용되었습니다.
