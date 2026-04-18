@@ -8,4 +8,4 @@
 <br><br>
 백준의 서비스 종료로 인해 더 이상 다루지 않게 되었습니다.
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=livecode" />
+<img src="https://github.com/RayneServer/solved-archive-study/blob/master/BOJ%20memory%20-%20livecode.png" />
